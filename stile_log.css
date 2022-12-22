@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 20%;
+}
+label{
+    color:gold;
+}
+a{
+    color:gold;
+}
+input[type=submit]{
+    background-color:	gold;
+    color:#000000;
+    border: none;
+    border-radius: 15px;
+}
+input[type=text]{
+    background-color:	gold;
+    color:#000000;
+    border: none;
+    border-radius: 15px;
+}
+input[type=password]{
+    background-color:	gold;
+    color:#000000;
+    border: none;
+    border-radius: 15px;
+}
